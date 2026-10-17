@@ -1,4 +1,4 @@
-# Emotion Detection Web Application
+# Final Project
 
 An AI-powered emotion detection web application developed with Python and Flask. The application analyzes natural language text for five primary emotions—**anger**, **disgust**, **fear**, **joy**, and **sadness**—and identifies the **dominant emotion**.
 
